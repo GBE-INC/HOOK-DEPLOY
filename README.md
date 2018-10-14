@@ -1,2 +1,1 @@
-# HOOK-DEPLOY
-Assignment 1 to check level of understanding
+# HOOK-DEPLOY project will allow us to automate the push notification event between Jenkins and Github"
